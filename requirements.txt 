@@ -1,7 +1,10 @@
-# Updated 2025-11-13 (Final verified)
+# Updated 2025-11-13 (force rebuild v3)
 streamlit
 pillow
 openai==1.14.3
 requests
 pdf2image
 numpy
+
+# dummy line for rebuild
+rebuild-trigger-2025-11-13-02-20
