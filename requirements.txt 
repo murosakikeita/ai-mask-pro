@@ -1,9 +1,8 @@
-# Updated 2025-11-13 (Force rebuild)
 streamlit
 pillow
-openai>=1.13.3
 requests
-pdf2image
 numpy
+pdf2image
 
-# force rebuild trigger v5
+# rebuild trigger
+v2025-11-13-REST
